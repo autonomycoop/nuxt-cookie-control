@@ -7,9 +7,18 @@ export default {
   unsaved: 'Sie haben nicht gespeicherte Einstellungen',
   close: 'Schließen',
   save: 'Speichern',
-  necessary: 'Notwendige Cookies',
-  optional: 'Optionale Cookies',
-  functional: 'Funktionale Cookies',
+  necessary: {
+    title:'Lustige Cookies',
+    description:"Dies sind notwendige Cookies"
+  },
+  optional: {
+    title:'Optionale Cookies',
+    description:"Dies sind optionale Cookies"
+  },
+  functional: {
+    title:'Funktionale Cookies',
+    description:"Dies sind funktionale Cookies"
+  },
   blockedIframe: 'Um den Inhalt zu sehen, aktivieren Sie bitte funktionale Cookies',
   here: 'hier'
 }
