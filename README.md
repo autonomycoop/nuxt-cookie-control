@@ -266,10 +266,6 @@ text: {
 }
 ```
 
-### Buy me a coffee
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F31MWWL)
-
-
 <!-- Badges -->
 [npm-version-src]: https://badgen.net/npm/v/nuxt-cookie-control/latest
 [npm-version-href]: https://npmjs.com/package/nuxt-cookie-control
