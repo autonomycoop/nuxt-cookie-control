@@ -1,3 +1,5 @@
+This version is modified to support the Autonomy Site.  It may or may not be current or useful to you.
+
 # Nuxt Cookie Control
 ![Nuxt Cookie Control](https://drive.google.com/a/broj42.com/uc?id=1FGQVyj2s0OT-gpTYxH_FuQhe6oU9iejW)
 #### 
