@@ -32,7 +32,7 @@
   ],
   "dependencies": {
     "css-vars-ponyfill": "^2.0.2",
-    "node-sass": "^4.9.0",
+    "sass": "^1.43.2",
     "sass-loader": "^7.0.1",
     "string-replace-loader": "^2.1.1"
   },
