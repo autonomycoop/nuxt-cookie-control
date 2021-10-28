@@ -300,7 +300,7 @@ a{
   background: unset;
   box-shadow: unset;
   color:#fff;
-  font-family: 'Libre Baskerville', serif;
+  font-family: 'Merriweather', serif;
   position: unset;
 }
 a:hover{
