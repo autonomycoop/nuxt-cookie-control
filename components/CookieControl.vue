@@ -32,7 +32,6 @@ pp
         aria-label="Cookie control"
         v-if="cookies.controlButton && colorsSet && cookies.consent"
         @click="cookies.modal = true"
-        style="color: #DA2C5F !important;"
       >
         <!-- <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
           <path
@@ -300,7 +299,7 @@ export default {
 a{
   background: unset;
   box-shadow: unset;
-  color:#fff;
+  color: #DA2C5F !important;
   font-family: 'Merriweather', serif;
   position: unset;
 }
