@@ -295,15 +295,3 @@ export default {
   },
 };
 </script>
-<style scoped>
-a{
-  background: unset;
-  box-shadow: unset;
-  color:#fff;
-  font-family: 'Libre Baskerville', serif;
-  position: unset;
-}
-a:hover{
-  background:unset;
-}
-</style>
